@@ -1,0 +1,5 @@
+{
+  "name": "GitHub Chat",
+  "description": "A real-time chat application for GitHub users.",
+  "requestFramePermissions": []
+}
